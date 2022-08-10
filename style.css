@@ -67,3 +67,6 @@ span {
 .image img:hover {
     transform: rotate(60deg);
 }
+.tab-heading{
+    text-align:center;
+}
